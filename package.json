@@ -1,0 +1,25 @@
+{
+  "name": "steam_engine_npm",
+  "version": "0.1.0",
+  "description": "Please don't use this, man. I'm taking a class. This will likley be completley useless.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osem598/a-literal-steam-engine.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "osem598 <osem598@hotmail.com> (https://www.npmjs.com/~osem598)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osem598/a-literal-steam-engine/issues"
+  },
+  "homepage": "https://github.com/osem598/a-literal-steam-engine#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
